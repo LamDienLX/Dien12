@@ -3,7 +3,7 @@
 ### Ngày sinh: 29/12/1996
 ### Trình độ: Sinh Viên Đại  Học
 ### Chuyên Nghành: Kỹ sư máy tính
-### [facbook](https://www.facebook.com/nguyenlamdien596)
-### [Dự án cá nhân] (https://github.com/LamDienLX/Dien12)
-### [twtiter] (twuitter.com)
+ [facbook](https://www.facebook.com/nguyenlamdien596)
+ [Dự án cá nhân](https://github.com/LamDienLX/Dien12)
+ [twtiter] (twuitter.com)
 
