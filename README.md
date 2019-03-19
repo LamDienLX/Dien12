@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+![img](https://scontent.fvca1-2.fna.fbcdn.net/v/t1.0-9/50340708_2357767714462653_2326688555675418624_n.jpg?_nc_cat=101&_nc_oc=AQml61vNS2u3WOI8oI9KrJmJqMv4enJNOzWwVtYEuPXM2fg-H8dYQLOh4foExpLvwKg&_nc_ht=scontent.fvca1-2.fna&oh=1fdf892ca3e7da8f02604a4cddd746d4&oe=5D50391C)
+Nguyễn Lâm Điền
+Ngày sinh: 29/12/1996
+Trình độ: Sinh Viên Đại  Học
+Chuyên Nghành: Kỹ sư máy tính
+[facbook](https://www.facebook.com/nguyenlamdien596)
+[Dự án cá nhân] (https://github.com/LamDienLX/Dien12)
+[twtiter] (twuitter.com)
 
-You can use the [editor on GitHub](https://github.com/LamDienLX/Dien12/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LamDienLX/Dien12/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
